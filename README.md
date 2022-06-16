@@ -6,3 +6,4 @@ I have created this repo as a part of self-learning and development activity by 
 
 ## Learning Flow
 1. [Created Singleton HelloWorld Object with `main()`](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Object/HelloWorld.scala)
+2. [Data Types]()
