@@ -12,3 +12,4 @@ I have created this repo as a part of self-learning and development activity by 
     1. [if and Else](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/IfElse.scala)
     2. [While Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/WhileLoop.scala)
     3. [do While Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/doWhileLoop.scala)
+    4. [For Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/ForLoop.scala)
