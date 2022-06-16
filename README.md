@@ -8,3 +8,5 @@ I have created this repo as a part of self-learning and development activity by 
 1. [Create Singleton Object with `main()`](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Object/HelloWorld.scala)
 2. [Basic Data Types](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/DataTypes/DataTypesVariables.scala)
 3. [String Interpolation](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Strings/StringInterpolation.scala)
+4. Conditions and Loops
+    1. [if and Else](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/IfElse.scala) 
