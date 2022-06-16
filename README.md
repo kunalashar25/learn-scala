@@ -9,4 +9,6 @@ I have created this repo as a part of self-learning and development activity by 
 2. [Basic Data Types](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/DataTypes/DataTypesVariables.scala)
 3. [String Interpolation](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Strings/StringInterpolation.scala)
 4. Conditions and Loops
-    1. [if and Else](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/IfElse.scala) 
+    1. [if and Else](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/IfElse.scala)
+    2. [While Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/WhileLoop.scala)
+    3. [do While Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/doWhileLoop.scala)
