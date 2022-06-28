@@ -19,4 +19,5 @@ I have created this repo as a part of self-learning and development activity by 
     2. [Nested Object Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/NestedObjectFunctions.scala)
     3. [Default Value Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/DefaultValueFunction.scala)
     4. [Operator as Function Names](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/OperatorAsFunctionNames.scala)
-    4. [Anonymous Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/AnonymousFunctions.scala)
+    5. [Anonymous Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/AnonymousFunctions.scala)
+    6. [Higher Order Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/HigherOrderFunctions.scala)
