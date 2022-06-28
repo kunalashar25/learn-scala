@@ -7,7 +7,7 @@ object WhileLoop {
 
     while (x < 10) {
       println(s"Value of x: $x")
-      x +=1; // pre/post increment/decrement operators are not allowed in scala.
+      x += 1; // pre/post increment/decrement operators are not allowed in scala.
     }
   }
 }

@@ -16,4 +16,7 @@ I have created this repo as a part of self-learning and development activity by 
 5. [Match Expressions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Expressions/MatchExpressions.scala)
 6. Functions
     1. [Basic Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/BasicFunctions.scala)
-    2. [Nested Objects Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/NestedObjects.scala)
+    2. [Nested Object Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/NestedObjectFunctions.scala)
+    3. [Default Value Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/DefaultValueFunction.scala)
+    4. [Operator as Function Names](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/OperatorAsFunctionNames.scala)
+    4. [Anonymous Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/AnonymousFunctions.scala)
