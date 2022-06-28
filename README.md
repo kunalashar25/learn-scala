@@ -14,3 +14,6 @@ I have created this repo as a part of self-learning and development activity by 
     3. [do While Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/doWhileLoop.scala)
     4. [For Loop](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/ConditionsAndLoops/ForLoop.scala)
 5. [Match Expressions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Expressions/MatchExpressions.scala)
+6. Functions
+    1. [Basic Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/BasicFunctions.scala)
+    2. [Nested Objects Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/NestedObjects.scala)
