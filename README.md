@@ -2,7 +2,7 @@
 
 This repo will cover all the concepts required to learn Scala from the scratch
 
-I have created this repo as a part of self-learning and development activity by referring the Youtube Playlist - [Scala Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)
+I have created this repo as a part of self-learning and development activity by referring the [Youtube Playlist](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)
 
 ## Learning Flow
 1. [Create Singleton Object with `main()`](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Object/HelloWorld.scala)
@@ -21,3 +21,4 @@ I have created this repo as a part of self-learning and development activity by 
     4. [Operator as Function Names](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/OperatorAsFunctionNames.scala)
     5. [Anonymous Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/AnonymousFunctions.scala)
     6. [Higher Order Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/HigherOrderFunctions.scala)
+    7. [Partially Applied Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/PartiallyAppliedFunctions.scala)
