@@ -25,3 +25,5 @@ I have created this repo as a part of self-learning and development activity by 
     8. [Closures](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/Closures.scala)
     9. [Currying](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/Currying.scala)
  7. [Arrays](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Arrays/Arrays.scala)
+ 8. Collection
+    1. [List](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Collection/ListExample.scala)
