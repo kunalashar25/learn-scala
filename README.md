@@ -22,3 +22,4 @@ I have created this repo as a part of self-learning and development activity by 
     5. [Anonymous Function](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/AnonymousFunctions.scala)
     6. [Higher Order Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/HigherOrderFunctions.scala)
     7. [Partially Applied Functions](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/PartiallyAppliedFunctions.scala)
+    8. [Closures](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Functions/Closures.scala)
