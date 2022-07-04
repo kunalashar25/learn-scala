@@ -29,3 +29,4 @@ I have created this repo as a part of self-learning and development activity by 
     1. [List](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Collection/ListExample.scala)
     2. [Set](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Collection/SetExample.scala)
     3. [Map](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Collection/MapExample.scala)
+    4. [Tuple](https://github.com/kunalashar25/learn-scala/blob/main/src/main/scala/Collection/TupleExample.scala)
