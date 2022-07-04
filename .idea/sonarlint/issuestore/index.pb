@@ -32,3 +32,17 @@ f
 6src/main/scala/Functions/OperatorAsFunctionNames.scala,3/3/33c0574d294e761d3e6c9a14dfb3e382ff1ac1e9
 a
 1src/main/scala/Functions/AnonymousFunctions.scala,3/b/3b602d9354dad29923b33aba103718b661594ed6
+c
+3src/main/scala/Functions/HigherOrderFunctions.scala,2/6/26d5adfe257c67db8803a08cc31af08afc22f954
+h
+8src/main/scala/Functions/PartiallyAppliedFunctions.scala,8/c/8c64b040191b192156969f3e035205f3722b5685
+W
+'src/main/scala/Functions/Closures.scala,e/0/e0b7e4874023f106edafa3d37b621563893603c2
+W
+'src/main/scala/Functions/Currying.scala,9/b/9bec06664cc8b9868be0639666f3d51d8ca69670
+R
+"src/main/scala/Arrays/Arrays.scala,4/4/4496c8e8d0a101bbd7f52b0b624946cd2ebac4cf
+[
++src/main/scala/Collection/ListExample.scala,f/c/fc0077791e4e7f48ab6ba4be9cb69271c14bee3d
+Z
+*src/main/scala/Collection/SetExample.scala,3/f/3fd87904d2500a1537b1a336c1007affb2f9c9e8
